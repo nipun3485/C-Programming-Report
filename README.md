@@ -1,6 +1,6 @@
 # C-Programming-Report
 
-# C Programming Lab – Complete README (Experiments 01–09)
+# C Programming Lab – Complete README (Experiments 01–12)
 
 This repository contains all experiments performed as part of the C Programming Laboratory.
 Each experiment is organized into a separate folder and contains:
@@ -119,23 +119,30 @@ Tasks:
 
 ---
 
-## Folder Structure Example
+## Experiment 10 - Dynamic Memory Allocation
 
-C_Programming_Lab/
-│
-├── Experiment_01/
-├── Experiment_02/
-├── Experiment_03.1/
-├── Experiment_03.2/
-├── Experiment_04/
-├── Experiment_05/
-├── Experiment_06/
-├── Experiment_07/
-├── Experiment_08/
-├── Experiment_09/
-└── README.md
+Tasks:
+1. To create a simple linked list in C using pointer and structures.
+2. To insert item in the middle of linked list.
 
 ---
+
+## Experiment 11 - Bitwise Operator
+
+Tasks:
+1. To apply bitwise OR,And and NOT operators on bit level.
+2. To apply left shift and right shift operator.
+
+---
+
+## Experiment 12 - Preprocessor and Directives in C
+
+Tasks:
+1. To define some constant variable in C.
+2. To define a function in directives.
+
+---
+
 
 ## How to Compile and Run Programs
 
@@ -146,3 +153,4 @@ To run:
 ./a.out
 
 ---
+
